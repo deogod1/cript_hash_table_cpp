@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1529428517 source:c:\users\gangplank\desktop\tphash\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Hashing.h"
+
+1529339770 c:\users\gangplank\desktop\tphash\include\fila.h
+
+1529426259 source:c:\users\gangplank\desktop\tphash\src\lista.cpp
+	"Lista.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1529426259 c:\users\gangplank\desktop\tphash\include\lista.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1529428716 source:c:\users\gangplank\desktop\tphash\src\hashing.cpp
+	"Hashing.h"
+
+1529427410 c:\users\gangplank\desktop\tphash\include\hashing.h
+	"Lista.h"
+
